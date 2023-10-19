@@ -12,6 +12,6 @@
 
 public class tiposdeVariaveis {
     public static void main(String[] args){
-        double salarioMinimo = 2500;
+        // double salarioMinimo = 2500;
     }
 }
